@@ -1,5 +1,4 @@
 from weather import Weather
-from pprint import pprint
 import json
 
 
